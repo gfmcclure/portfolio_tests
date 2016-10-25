@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  /*font-family: 'Montserrat', sans-serif;*/
+  font-family: 'Cabin', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #F1F1F1;
+  color: #5A5D65; }
+
+.header h1 {
+  max-width: 40em;
+  font-size: 3em;
+  color: #FFD400; }
+.header h3 {
+  color: #fff; }
+
+a {
+  color: #FFD400;
+  text-decoration: none; }
+
+/*# sourceMappingURL=type.css.map */

@@ -1,0 +1,53 @@
+@imp-imgrt 'normalize';
+@import 'pure/grids';
+@import 'type';
+
+body {
+	margin: 0;
+}
+
+.pure-img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+
+.wrapper {
+	margin: 0 auto;
+	max-width: 1000px;
+}
+
+.header {
+	border:0;
+	padding: 4em 0 .5em 0;
+	background-color: #5A5D65;
+	
+	.info { margin: 0 auto; max-width: 40em; }
+	
+	.top-nav {
+		margin: 4em 0 0 0;
+		
+		a {
+			display: inline;
+			margin: 2em;
+		}
+	}
+}
+
+
+.project {
+	text-align: center;
+	
+	.bg-img {
+		margin: 0 auto;
+	}
+
+	.info {
+		margin: 4em auto;
+		max-width: 40em;
+	}
+}
+
+
+
